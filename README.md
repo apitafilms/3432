@@ -2,7 +2,7 @@
 
 
 ## WHAT DO YOU DO?
-> We are a group of antifa's, our goal is to release files exposing those of which are bigots (e.g. Trump Supporters).
+> We are a group of antifa's, and our goal is to release files exposing those of which are bigots (e.g. Trump Supporters).
 
 ## HOW DO I HELP
 * Archive this repo.
