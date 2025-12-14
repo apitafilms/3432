@@ -2,7 +2,11 @@
 
 
 ## WHAT DO YOU DO?
-> We are a group of antifa's, and our goal is to release files exposing those of which are bigots (e.g. Trump Supporters).
+> We are a group of antifa's, and our goal is to release names, as we hope to accomplish peace by means of protesting.
+> 
+> We are **eyes**, join us.
+>
+> Thanks. ~ **APITA Films**.
 
 ## HOW DO I HELP?
 * Archive this repo.
