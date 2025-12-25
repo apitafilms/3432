@@ -19,11 +19,11 @@
 ## DONATIONS:
 BTC:
 ```
-bc1q7ssyjh0cz9z2qegl79xcdr7679yrejc8y9p0t8
+bc1qd2pn5q70zakh549mt79tldkupklmdl88cmydd6
 ```
 XMR:
 ```
-891GioXnzrwDqXrQswLBvzUDdV37aU8FNiMpCAanrbra9XP1xVZN66oBuXCFVjmuemUtBchYBbWr8LJBCbtddEjCDZ8JAiB
+84DU5GjeGEHiyYe8fUd9p6i6Sp9sGxkNzDgDg6TNEWPNeZxfAt5XNzYhRhs8a6eMZP9kd5kihLg6RJH9VaFTHRDxAE8EgFj
 ```
 CASH APP:
 ```
