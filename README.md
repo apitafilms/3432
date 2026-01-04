@@ -33,3 +33,6 @@ CASH APP:
 ```
 https://cash.app/$APITAFilms
 ```
+
+## DOWNLOAD DATABASE
+You can download it [here](https://github.com/apitafilms/3432/releases/download/archive/archive.zip).
