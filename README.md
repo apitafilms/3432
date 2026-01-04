@@ -1,4 +1,8 @@
-<img width="2048" height="2048" alt="Untitled design_20251207_205209_0000" src="https://github.com/user-attachments/assets/f6a3d0ae-dec9-49ef-bcad-492bc41d949e" />
+
+
+https://github.com/user-attachments/assets/55599621-4db9-4abe-a65f-4500236faf1c
+
+
 
 
 ## WHAT DO YOU DO?
