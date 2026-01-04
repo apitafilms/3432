@@ -4,6 +4,7 @@ plugins:
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: 3432
+description: A movement against bigots. (e.g. ICE agents, and Trump Supporters)
 
 on:
   # Runs on pushes targeting the default branch
