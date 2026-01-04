@@ -1,6 +1,3 @@
-<img width="auto" height="auto" alt="5362" src="https://github.com/user-attachments/assets/0c8b5076-2358-4649-81b5-872663833d3c" />
-
-
 ## WHAT DO YOU DO?
 > We are a group of antifa's, and our goal is to release names, as we hope to accomplish peace by means of protesting.
 > 
