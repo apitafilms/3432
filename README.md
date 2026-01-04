@@ -1,8 +1,4 @@
-
-
-https://github.com/user-attachments/assets/55599621-4db9-4abe-a65f-4500236faf1c
-
-
+<img width="auto" height="auto" alt="5362" src="https://github.com/user-attachments/assets/0c8b5076-2358-4649-81b5-872663833d3c" />
 
 
 ## WHAT DO YOU DO?
