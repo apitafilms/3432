@@ -32,4 +32,4 @@ You can download it [here](https://github.com/apitafilms/3432/releases/download/
 
 ## REPORT ICE
 * [ICE in my area](https://www.iceinmyarea.org)
-* [Pull Request](https://github.com/apitafilms/3432/pulls)
+* [Issues](https://github.com/apitafilms/3432/issues)
