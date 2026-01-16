@@ -1,3 +1,6 @@
+# eYEZ
+> A movement against bigots. (e.g. ICE agents, and Trump Supporters, etc)
+
 ## WHAT DO YOU DO?
 > We are a group of antifa's, and our goal is to release names, as we hope to accomplish peace by means of protesting.
 > 
