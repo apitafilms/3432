@@ -1,7 +1,7 @@
 ## WHAT DO YOU DO?
 > We are a group of antifa's, and our goal is to release names, as we hope to accomplish peace by means of protesting.
 > 
-> We are **eyes**, join us.
+> We are **eYEZ**, join us.
 >
 > Thanks. ~ **APITA Films**.
 
