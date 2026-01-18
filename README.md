@@ -8,8 +8,8 @@
 ## HOW DO I HELP?
 * Join us (contact [us](mailto:apitafilms@gmail.com))
 * Archive this repo.
-* Send us digital currency.
-  - * 20% will help fund our research equipment. (calling apps, reverse facial analysis, etc.)
+* Send us digital currency, and become a sponsor (**btc**, **xmr**, **cash app**).
+  - * 20% will help fund our research equipment. (**calling apps**, **reverse facial analysis**, **etc**).
   - * 30% will go towards homeless people.
   - * 50% will go to LGBTQIA+ charities.
 
