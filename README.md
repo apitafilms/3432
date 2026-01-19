@@ -33,4 +33,4 @@ https://cash.app/$APITAFilms
 * [Issues](https://github.com/apitafilms/3432/issues)
 
 ## DOWNLOAD DATABASE
-You can download it [here](https://github.com/apitafilms/eYEZ/releases/download/archive/archive.zip)
+You can download it [here](https://github.com/apitafilms/eYEZ/releases/download/archive/archive.zip).
