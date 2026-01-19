@@ -1,5 +1,3 @@
-# NOTICE
-This group will be archived. I can not handle the stress currently, but I may re-open it in the future, and yes donations are still accepted.
 # WHAT DO YOU DO?
 > We are a group of antifa's, and our goal is to release names, as we hope to accomplish peace by means of protesting.
 > 
@@ -35,4 +33,4 @@ https://cash.app/$APITAFilms
 * [Issues](https://github.com/apitafilms/3432/issues)
 
 ## DOWNLOAD DATABASE
-You can download it [here](https://github.com/apitafilms/3432/releases/download/archive/archive.zip)
+You can download it [here](https://github.com/apitafilms/3432/releases/download/archi
