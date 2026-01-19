@@ -1,4 +1,7 @@
-## WHAT DO YOU DO?
+# NOTICE
+⚠️ This group will be archived. I am the creator, and I can not handle the stress rn. I may re-open it in the future. ⚠️
+
+# WHAT DO YOU DO?
 > We are a group of antifa's, and our goal is to release names, as we hope to accomplish peace by means of protesting.
 > 
 > We are **eYEZ**, join us.
